@@ -6,3 +6,5 @@ Simple project management tool:
 ### `npm install react`
 ### `npm install firebase`
 ### `npm start`
+
+Demo: http://atspot.org/pm/
