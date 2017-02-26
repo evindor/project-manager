@@ -64,28 +64,3 @@ class Project extends Component {
 }
 
 export default Project;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// var Peoples = [
-//   {
-//     id: 0,
-//     name: "John"
-//   },
-//   {
-//     id: 1,
-//     name: "Anna"
-//   }
-// ];
