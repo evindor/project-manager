@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom';
 import ProjectList from '../ProjectList';
 import * as firebase from 'firebase';
 
-
 class User extends Component {
     constructor(props) {
         super(props);
 
         this.assignToCallee = this.assignToCallee.bind(this);
     }
+    
     assignToCallee () {
         let uniq;
         let associate = this.props.Associate;
