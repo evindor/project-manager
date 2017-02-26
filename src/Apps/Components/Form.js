@@ -16,6 +16,7 @@ class Form extends Component {
         }
         this.refs.title.value = "";
     }
+    
     render () {
         return (
         <form onSubmit={this.handleSubmit}>
